@@ -12,6 +12,8 @@ FINDINGS:
   3) An R rated comedy - comedies perform well in the box office, compared to categories other than action movies. An R rating may limit the potential audience size, but was the MPAA rating that performed best among comedies in our analysis.
   
   On the surface, G rated animations looked like a good choice as well, but with only 10 of them in the set of 500 movies we analyzed, we chose not to recommend them.
+  
+  MPAA Rating affects box office gross by potentially limiting or increasing audience size, as well as audience expectations of rating for a genre.
 
 DATA USED IN THIS PROJECT:
   The final dataset used in this project is named 'combined_movie_data_2010_to_2019.csv' in the data folder of this repository.
