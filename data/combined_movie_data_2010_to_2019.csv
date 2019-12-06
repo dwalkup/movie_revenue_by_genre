@@ -1,0 +1,501 @@
+,ry_rank,name,rating,genre,gross,release_year,primary_genre
+0,1,Toy Story 3,G,"Animation, Adventure, Comedy",415.0,2010,Animation
+1,2,Alice in Wonderland,PG,"Adventure, Family, Fantasy",334.19,2010,Adventure
+2,3,Iron Man 2,PG-13,"Action, Adventure, Sci-Fi",312.43,2010,Action
+3,4,The Twilight Saga: Eclipse,PG-13,"Action, Adventure, Crime",300.53,2010,Action
+4,5,Harry Potter and the Deathly Hallows: Part 1,PG-13,"Adventure, Family, Fantasy",295.98,2010,Adventure
+5,6,Inception,PG-13,"Action, Adventure, Sci-Fi",292.58,2010,Action
+6,7,Despicable Me,PG,"Animation, Comedy, Family",251.51,2010,Animation
+7,8,Shrek Forever After,PG,"Animation, Adventure, Comedy",238.37,2010,Animation
+8,9,How to Train Your Dragon,PG,"Animation, Action, Adventure",217.58,2010,Animation
+9,10,Tangled,PG,"Animation, Adventure, Comedy",200.82,2010,Animation
+10,11,The Karate Kid,PG,"Action, Drama, Family",176.59,2010,Action
+11,12,Tron,PG,"Action, Adventure, Sci-Fi",172.06,2010,Action
+12,13,True Grit,PG-13,"Drama, Western",171.24,2010,Drama
+13,14,Clash of the Titans,PG-13,"Action, Adventure, Fantasy",163.21,2010,Action
+14,15,Grown Ups,PG-13,Comedy,162.0,2010,Comedy
+15,16,Megamind,PG,"Animation, Action, Comedy",148.42,2010,Animation
+16,17,Little Fockers,PG-13,"Comedy, Romance",148.38,2010,Comedy
+17,18,The King's Speech,R,"Biography, Drama, History",138.8,2010,Biography
+18,19,The Last Airbender,PG,"Action, Adventure, Family",131.56,2010,Action
+19,20,Shutter Island,R,"Mystery, Thriller",128.01,2010,Mystery
+20,21,The Other Guys,PG-13,"Action, Comedy, Crime",119.22,2010,Action
+21,22,Salt,PG-13,"Action, Mystery, Thriller",118.31,2010,Action
+22,23,Jackass 3D,R,"Documentary, Action, Comedy",117.22,2010,Documentary
+23,24,Valentine's Day,PG-13,"Comedy, Romance",110.49,2010,Comedy
+24,25,Black Swan,R,"Drama, Thriller",106.95,2010,Drama
+25,26,Robin Hood,PG-13,"Action, Drama, History",105.27,2010,Action
+26,27,The Chronicles of Narnia: The Voyage of the Dawn Treader,PG,"Adventure, Family, Fantasy",104.39,2010,Adventure
+27,28,The Expendables,R,"Action, Adventure, Thriller",103.07,2010,Action
+28,29,Due Date,R,"Comedy, Drama",100.54,2010,Comedy
+29,30,Yogi Bear,PG,"Animation, Adventure, Comedy",100.25,2010,Animation
+30,31,Date Night,PG-13,"Comedy, Crime, Romance",98.71,2010,Comedy
+31,32,The Social Network,PG-13,"Biography, Drama",96.96,2010,Biography
+32,33,Sex and the City 2,R,"Comedy, Drama, Romance",95.35,2010,Comedy
+33,34,The Book of Eli,R,"Action, Adventure, Drama",94.84,2010,Action
+34,35,The Fighter,R,"Biography, Drama, Sport",93.62,2010,Biography
+35,36,The Town,R,"Crime, Drama, Thriller",92.19,2010,Crime
+36,37,Prince of Persia: The Sands of Time,PG-13,"Action, Fantasy",90.76,2010,Action
+37,38,RED,PG-13,"Action, Comedy, Crime",90.38,2010,Action
+38,39,Percy Jackson & the Olympians: The Lightning Thief,PG,"Adventure, Family, Fantasy",88.76,2010,Adventure
+39,40,Paranormal Activity 2,R,Horror,84.75,2010,Horror
+40,41,Unstoppable,PG-13,"Action, Thriller",81.56,2010,Action
+41,42,Eat Pray Love,PG-13,"Drama, Romance",80.57,2010,Drama
+42,43,Dear John,PG-13,"Drama, Romance, War",80.01,2010,Drama
+43,44,The A-Team,PG-13,"Action, Adventure, Thriller",77.22,2010,Action
+44,45,Knight and Day,PG-13,"Action, Adventure, Comedy",76.42,2010,Action
+45,46,Dinner for Schmucks,PG-13,Comedy,73.03,2010,Comedy
+46,47,The Tourist,PG-13,"Action, Adventure, Crime",67.63,2010,Action
+47,48,The Bounty Hunter,PG-13,"Action, Comedy, Romance",67.06,2010,Action
+48,49,Diary of a Wimpy Kid,PG,"Comedy, Drama, Family",64.0,2010,Comedy
+49,50,The Sorcerer's Apprentice,PG,"Action, Adventure, Family",63.15,2010,Action
+50,1,Harry Potter and the Deathly Hallows: Part 2,PG-13,"Adventure, Drama, Fantasy",381.01,2011,Adventure
+51,2,Transformers: Dark of the Moon,PG-13,"Action, Adventure, Sci-Fi",352.39,2011,Action
+52,3,The Twilight Saga: Breaking Dawn - Part 1,PG-13,"Action, Adventure, Drama",281.29,2011,Action
+53,4,The Hangover Part II,R,Comedy,254.46,2011,Comedy
+54,5,Pirates of the Caribbean: On Stranger Tides,PG-13,"Action, Adventure, Fantasy",241.06,2011,Action
+55,6,Fast Five,PG-13,"Action, Adventure, Thriller",209.84,2011,Action
+56,7,Mission: Impossible - Ghost Protocol,PG-13,"Action, Adventure, Thriller",209.4,2011,Action
+57,8,Cars 2,G,"Animation, Adventure, Comedy",191.45,2011,Animation
+58,9,Sherlock Holmes: A Game of Shadows,PG-13,"Action, Adventure, Crime",186.85,2011,Action
+59,10,Thor,PG-13,"Action, Adventure, Fantasy",181.03,2011,Action
+60,11,Rise of the Planet of the Apes,PG-13,"Action, Drama, Sci-Fi",176.76,2011,Action
+61,12,Captain America: The First Avenger,PG-13,"Action, Adventure, Sci-Fi",176.65,2011,Action
+62,13,The Help,PG-13,Drama,169.71,2011,Drama
+63,14,Bridesmaids,R,"Comedy, Romance",169.11,2011,Comedy
+64,15,Kung Fu Panda 2,PG,"Animation, Action, Adventure",165.25,2011,Animation
+65,16,Puss in Boots,PG,"Animation, Action, Adventure",149.26,2011,Animation
+66,17,X: First Class,PG-13,"Action, Adventure, Sci-Fi",146.41,2011,Action
+67,18,Rio,G,"Animation, Adventure, Comedy",143.62,2011,Animation
+68,19,The Smurfs,PG,"Animation, Adventure, Comedy",142.61,2011,Animation
+69,20,Alvin and the Chipmunks: Chipwrecked,G,"Animation, Adventure, Comedy",133.11,2011,Animation
+70,21,Super 8,PG-13,"Mystery, Sci-Fi, Thriller",127.0,2011,Mystery
+71,22,Rango,PG,"Animation, Adventure, Comedy",123.48,2011,Animation
+72,23,Horrible Bosses,R,"Comedy, Crime",117.54,2011,Comedy
+73,24,Green Lantern,PG-13,"Action, Adventure, Sci-Fi",116.6,2011,Action
+74,25,Hop,PG,"Animation, Adventure, Comedy",108.09,2011,Animation
+75,26,Paranormal Activity 3,R,"Horror, Mystery, Thriller",104.01,2011,Horror
+76,27,Just Go with It,PG-13,"Comedy, Romance",103.03,2011,Comedy
+77,28,The Girl with the Dragon Tattoo,R,"Crime, Drama, Mystery",102.52,2011,Crime
+78,29,Bad Teacher,R,"Comedy, Romance",100.29,2011,Comedy
+79,30,Cowboys & Aliens,PG-13,"Action, Adventure, Fantasy",100.24,2011,Action
+80,31,Gnomeo & Juliet,G,"Animation, Adventure, Comedy",99.97,2011,Animation
+81,32,The Green Hornet,PG-13,"Action, Comedy, Crime",98.78,2011,Action
+82,33,The Muppets,PG,"Adventure, Comedy, Family",88.63,2011,Adventure
+83,34,Real Steel,PG-13,"Action, Drama, Family",85.47,2011,Action
+84,35,"Crazy, Stupid, Love.",PG-13,"Comedy, Drama, Romance",84.35,2011,Comedy
+85,36,Battle Los Angeles,PG-13,"Action, Adventure, Fantasy",83.55,2011,Action
+86,37,Immortals,R,"Action, Drama, Fantasy",83.5,2011,Action
+87,38,The Descendants,R,"Comedy, Drama",82.58,2011,Comedy
+88,39,Zookeeper,PG,"Comedy, Family, Fantasy",80.36,2011,Comedy
+89,40,War Horse,PG-13,"Action, Adventure, Drama",79.88,2011,Action
+90,41,Limitless,PG-13,"Sci-Fi, Thriller",79.25,2011,Sci-Fi
+91,42,Tower Heist,PG-13,"Action, Comedy, Crime",78.05,2011,Action
+92,43,The Adventures of Tintin,PG,"Animation, Action, Adventure",77.59,2011,Animation
+93,44,Contagion,PG-13,"Action, Drama, Thriller",75.66,2011,Action
+94,45,We Bought a Zoo,PG,"Comedy, Drama, Family",75.62,2011,Comedy
+95,46,Moneyball,PG-13,"Biography, Drama, Sport",75.61,2011,Biography
+96,47,Jack and Jill,PG,Comedy,74.16,2011,Comedy
+97,48,Hugo,PG,"Drama, Family, Fantasy",73.86,2011,Drama
+98,49,Justin Bieber: Never Say Never,G,"Documentary, Music",73.01,2011,Documentary
+99,50,Dolphin Tale,PG,"Drama, Family",72.29,2011,Drama
+100,1,The Avengers,PG-13,"Action, Adventure, Sci-Fi",623.28,2012,Action
+101,2,The Dark Knight Rises,PG-13,"Action, Thriller",448.14,2012,Action
+102,3,The Hunger Games,PG-13,"Action, Adventure, Sci-Fi",408.01,2012,Action
+103,4,Skyfall,PG-13,"Action, Adventure, Thriller",304.36,2012,Action
+104,5,The Hobbit: An Unexpected Journey,PG-13,"Adventure, Family, Fantasy",303.0,2012,Adventure
+105,6,The Twilight Saga: Breaking Dawn - Part 2,PG-13,"Adventure, Drama, Fantasy",292.3,2012,Adventure
+106,7,The Amazing Spider-Man,PG-13,"Action, Sci-Fi",262.03,2012,Action
+107,8,Brave,PG,"Animation, Adventure, Comedy",237.28,2012,Animation
+108,9,Ted,R,Comedy,218.82,2012,Comedy
+109,10,Madagascar 3: Europe's Most Wanted,PG,"Animation, Adventure, Comedy",216.39,2012,Animation
+110,11,The Lorax,PG,"Animation, Adventure, Drama",214.03,2012,Animation
+111,12,Wreck-It Ralph,PG,"Animation, Adventure, Comedy",189.42,2012,Animation
+112,13,Lincoln,PG-13,"Biography, Drama, History",182.21,2012,Biography
+113,14,Men in Black 3,PG-13,"Action, Adventure, Comedy",179.02,2012,Action
+114,15,Django Unchained,R,"Drama, Western",162.81,2012,Drama
+115,16,Ice Age: Continental Drift,PG,"Animation, Adventure, Comedy",161.32,2012,Animation
+116,17,Snow White and the Huntsman,PG-13,"Action, Adventure, Drama",155.33,2012,Action
+117,18,Les Misérables,PG-13,"Drama, History, Musical",148.81,2012,Drama
+118,19,Hotel Transylvania,PG,"Animation, Comedy, Family",148.31,2012,Animation
+119,20,Taken 2,PG-13,"Action, Thriller",139.85,2012,Action
+120,21,21 Jump Street,R,"Action, Comedy, Crime",138.45,2012,Action
+121,22,Argo,R,"Biography, Drama, Thriller",136.03,2012,Biography
+122,23,Silver Linings Playbook,R,"Comedy, Drama, Romance",132.09,2012,Comedy
+123,24,Prometheus,R,"Adventure, Mystery, Sci-Fi",126.48,2012,Adventure
+124,25,Safe House,R,"Action, Thriller",126.37,2012,Action
+125,26,The Vow,PG-13,"Drama, Romance",125.01,2012,Drama
+126,27,Life of Pi,PG,"Adventure, Drama, Fantasy",124.99,2012,Adventure
+127,28,Magic Mike,R,"Comedy, Drama",113.72,2012,Comedy
+128,29,The Bourne Legacy,PG-13,"Action, Adventure, Thriller",113.2,2012,Action
+129,30,Journey 2: The Mysterious Island,PG,"Action, Adventure, Comedy",103.86,2012,Action
+130,31,Rise of the Guardians,PG,"Animation, Action, Adventure",103.41,2012,Animation
+131,32,Zero Dark Thirty,R,"Drama, Thriller",95.72,2012,Drama
+132,33,Flight,R,"Drama, Thriller",93.77,2012,Drama
+133,34,Think Like a Man,PG-13,"Comedy, Romance",91.55,2012,Comedy
+134,35,The Campaign,R,Comedy,86.91,2012,Comedy
+135,36,The Expendables 2,R,"Action, Adventure, Thriller",85.02,2012,Action
+136,37,Wrath of the Titans,PG-13,"Action, Adventure, Fantasy",83.67,2012,Action
+137,38,Jack Reacher,PG-13,"Action, Crime, Thriller",80.07,2012,Action
+138,39,Dark Shadows,PG-13,"Comedy, Fantasy, Horror",79.73,2012,Comedy
+139,40,Parental Guidance,PG,"Comedy, Family",77.27,2012,Comedy
+140,41,John Carter,PG-13,"Action, Adventure, Sci-Fi",73.08,2012,Action
+141,42,Act of Valor,R,"Action, Adventure, Drama",70.01,2012,Action
+142,43,This Is 40,R,"Comedy, Romance",67.54,2012,Comedy
+143,44,Contraband,R,"Action, Crime, Drama",66.53,2012,Action
+144,45,Looper,R,"Action, Crime, Drama",66.49,2012,Action
+145,46,Madea's Witness Protection,PG-13,"Comedy, Crime, Drama",65.65,2012,Comedy
+146,47,Battleship,PG-13,"Action, Adventure, Sci-Fi",65.42,2012,Action
+147,48,Pitch Perfect,PG-13,"Comedy, Music, Romance",65.0,2012,Comedy
+148,49,Mirror Mirror,PG,"Adventure, Comedy, Drama",64.94,2012,Adventure
+149,50,Chronicle,PG-13,"Drama, Sci-Fi, Thriller",64.58,2012,Drama
+150,1,The Hunger Games: Catching Fire,PG-13,"Action, Adventure, Sci-Fi",424.67,2013,Action
+151,2,Iron Man Three,PG-13,"Action, Adventure, Sci-Fi",409.01,2013,Action
+152,3,Frozen,PG,"Animation, Adventure, Comedy",400.74,2013,Animation
+153,4,Despicable Me 2,PG,"Animation, Adventure, Comedy",368.06,2013,Animation
+154,5,Man of Steel,PG-13,"Action, Adventure, Sci-Fi",291.05,2013,Action
+155,6,Gravity,PG-13,"Drama, Sci-Fi, Thriller",274.09,2013,Drama
+156,7,Monsters University,G,"Animation, Adventure, Comedy",268.49,2013,Animation
+157,8,The Hobbit: The Desolation of Smaug,PG-13,"Adventure, Fantasy",258.37,2013,Adventure
+158,9,Furious 6,PG-13,"Action, Adventure, Thriller",238.68,2013,Action
+159,10,Oz the Great and Powerful,PG,"Adventure, Family, Fantasy",234.91,2013,Adventure
+160,11,Star Trek Into Darkness,PG-13,"Action, Adventure, Sci-Fi",228.78,2013,Action
+161,12,Thor: The Dark World,PG-13,"Action, Adventure, Fantasy",206.36,2013,Action
+162,13,World War Z,PG-13,"Action, Adventure, Horror",202.36,2013,Action
+163,14,The Croods,PG,"Animation, Action, Adventure",187.17,2013,Animation
+164,15,The Heat,R,"Action, Comedy, Crime",159.58,2013,Action
+165,16,We're the Millers,R,"Comedy, Crime",150.39,2013,Comedy
+166,17,American Hustle,R,"Crime, Drama",150.12,2013,Crime
+167,18,The Great Gatsby,PG-13,"Drama, Romance",144.84,2013,Drama
+168,19,The Conjuring,R,"Horror, Mystery, Thriller",137.4,2013,Horror
+169,20,Identity Thief,R,"Comedy, Crime, Drama",134.51,2013,Comedy
+170,21,Grown Ups 2,PG-13,Comedy,133.67,2013,Comedy
+171,22,The Wolverine,PG-13,"Action, Adventure, Sci-Fi",132.56,2013,Action
+172,23,Anchorman 2: The Legend Continues,PG-13,Comedy,127.35,2013,Comedy
+173,24,Lone Survivor,R,"Action, Biography, Drama",125.1,2013,Action
+174,25,G.I. Joe: Retaliation,PG-13,"Action, Adventure, Sci-Fi",122.52,2013,Action
+175,26,Cloudy with a Chance of Meatballs 2,PG,"Animation, Adventure, Comedy",119.79,2013,Animation
+176,27,Now You See Me,PG-13,"Crime, Mystery, Thriller",117.72,2013,Crime
+177,28,The Wolf of Wall Street,R,"Biography, Crime, Drama",116.9,2013,Biography
+178,29,The Butler,PG-13,"Biography, Drama",116.63,2013,Biography
+179,30,The Hangover Part III,R,Comedy,112.2,2013,Comedy
+180,31,Epic,PG,"Animation, Adventure, Family",107.52,2013,Animation
+181,32,Captain Phillips,PG-13,"Biography, Drama, Thriller",107.1,2013,Biography
+182,33,Bad Grandpa,R,Comedy,102.0,2013,Comedy
+183,34,Pacific Rim,PG-13,"Action, Adventure, Sci-Fi",101.8,2013,Action
+184,35,This Is the End,R,Comedy,101.47,2013,Comedy
+185,36,Olympus Has Fallen,R,"Action, Thriller",98.93,2013,Action
+186,37,42,PG-13,"Biography, Drama, Sport",95.0,2013,Biography
+187,38,Elysium,R,"Action, Drama, Sci-Fi",93.05,2013,Action
+188,39,Planes,PG,"Animation, Adventure, Comedy",90.29,2013,Animation
+189,40,The Lone Ranger,PG-13,"Action, Adventure, Comedy",89.3,2013,Action
+190,41,Oblivion,PG-13,"Action, Adventure, Sci-Fi",89.02,2013,Action
+191,42,Insidious: Chapter 2,PG-13,"Horror, Mystery, Thriller",83.59,2013,Horror
+192,43,Saving Mr. Banks,PG-13,"Biography, Comedy, Drama",83.3,2013,Biography
+193,44,Turbo,PG,"Animation, Adventure, Comedy",83.03,2013,Animation
+194,45,2 Guns,R,"Action, Comedy, Thriller",75.61,2013,Action
+195,46,White House Down,PG-13,"Action, Drama, Thriller",73.1,2013,Action
+196,47,Mama,PG-13,"Horror, Thriller",71.63,2013,Horror
+197,48,Safe Haven,PG-13,"Drama, Romance, Thriller",71.35,2013,Drama
+198,49,The Smurfs 2,PG,"Animation, Adventure, Comedy",71.02,2013,Animation
+199,50,The Best Man Holiday,R,"Comedy, Drama",70.53,2013,Comedy
+200,1,American Sniper,R,"Action, Biography, Drama",350.13,2014,Action
+201,2,The Hunger Games: Mockingjay - Part 1,PG-13,"Action, Adventure, Sci-Fi",337.14,2014,Action
+202,3,Guardians of the Galaxy,PG-13,"Action, Adventure, Comedy",333.18,2014,Action
+203,4,Captain America: The Winter Soldier,PG-13,"Action, Adventure, Sci-Fi",259.77,2014,Action
+204,5,The Lego Movie,PG,"Animation, Action, Adventure",257.76,2014,Animation
+205,6,The Hobbit: The Battle of the Five Armies,PG-13,"Adventure, Fantasy",255.12,2014,Adventure
+206,7,Transformers: Age of Extinction,PG-13,"Action, Adventure, Sci-Fi",245.44,2014,Action
+207,8,Maleficent,PG,"Action, Adventure, Family",241.41,2014,Action
+208,9,X-Men: Days of Future Past,PG-13,"Action, Adventure, Sci-Fi",233.92,2014,Action
+209,10,Big Hero 6,PG,"Animation, Action, Adventure",222.53,2014,Animation
+210,11,Dawn of the Planet of the Apes,PG-13,"Action, Adventure, Drama",208.55,2014,Action
+211,12,The Amazing Spider-Man 2,PG-13,"Action, Adventure, Sci-Fi",202.85,2014,Action
+212,13,Godzilla,PG-13,"Action, Adventure, Sci-Fi",200.68,2014,Action
+213,14,22 Jump Street,R,"Action, Comedy, Crime",191.72,2014,Action
+214,15,Teenage Mutant Ninja Turtles,PG-13,"Action, Adventure, Comedy",191.2,2014,Action
+215,16,Interstellar,PG-13,"Adventure, Drama, Sci-Fi",188.02,2014,Adventure
+216,17,How to Train Your Dragon 2,PG,"Animation, Action, Adventure",177.0,2014,Animation
+217,18,Gone Girl,R,"Drama, Mystery, Thriller",167.77,2014,Drama
+218,19,Divergent,PG-13,"Action, Adventure, Mystery",150.95,2014,Action
+219,20,Neighbors,R,Comedy,150.16,2014,Comedy
+220,21,Ride Along,PG-13,"Action, Comedy, Crime",134.94,2014,Action
+221,22,Rio 2,G,"Animation, Adventure, Comedy",131.54,2014,Animation
+222,23,Kingsman: The Secret Service,R,"Action, Adventure, Comedy",128.26,2014,Action
+223,24,Into the Woods,PG,"Adventure, Comedy, Drama",128.0,2014,Adventure
+224,25,Lucy,R,"Action, Sci-Fi, Thriller",126.66,2014,Action
+225,26,The Fault in Our Stars,PG-13,"Drama, Romance",124.87,2014,Drama
+226,27,Unbroken,PG-13,"Biography, Drama, Sport",115.64,2014,Biography
+227,28,Night at the Museum: Secret of the Tomb,PG,"Adventure, Comedy, Family",113.75,2014,Adventure
+228,29,Mr. Peabody & Sherman,PG,"Animation, Adventure, Comedy",111.51,2014,Animation
+229,30,300: Rise of an Empire,R,Action,106.58,2014,Action
+230,31,The Maze Runner,PG-13,"Action, Mystery, Sci-Fi",102.43,2014,Action
+231,32,The Equalizer,R,"Action, Crime, Thriller",101.53,2014,Action
+232,33,Noah,PG-13,"Action, Adventure, Drama",101.2,2014,Action
+233,34,Edge of Tomorrow,PG-13,"Action, Sci-Fi",100.21,2014,Action
+234,35,Non-Stop,PG-13,"Action, Mystery, Thriller",92.17,2014,Action
+235,36,Heaven Is for Real,PG,"Biography, Drama, Family",91.44,2014,Biography
+236,37,The Imitation Game,PG-13,"Biography, Drama, Thriller",91.13,2014,Biography
+237,38,Taken 3,PG-13,"Action, Thriller",89.26,2014,Action
+238,39,Dumb and Dumber To,PG-13,Comedy,86.21,2014,Comedy
+239,40,Annie,PG,"Comedy, Drama, Family",85.91,2014,Comedy
+240,41,Fury,R,"Action, Drama, War",85.82,2014,Action
+241,42,Tammy,R,"Comedy, Romance",84.53,2014,Comedy
+242,43,Annabelle,R,"Horror, Mystery, Thriller",84.27,2014,Horror
+243,44,The Other Woman,PG-13,"Comedy, Romance",83.91,2014,Comedy
+244,45,Penguins of Madagascar,PG,"Animation, Adventure, Comedy",83.35,2014,Animation
+245,46,Let's Be Cops,R,"Action, Comedy, Crime",82.39,2014,Action
+246,47,The Monuments Men,PG-13,"Comedy, Drama, History",78.03,2014,Comedy
+247,48,Paddington,PG,"Adventure, Comedy, Family",76.27,2014,Adventure
+248,49,Hercules,PG-13,"Action, Adventure, Fantasy",72.69,2014,Action
+249,50,The Purge: Anarchy,R,"Action, Horror, Sci-Fi",71.96,2014,Action
+0,0,Star Wars: Episode VII - The Force Awakens,PG-13,"Action, Adventure, Sci-Fi",936.66,2015,Action
+1,1,Jurassic World,PG-13,"Action, Adventure, Sci-Fi",652.27,2015,Action
+2,2,Avengers: Age of Ultron,PG-13,"Action, Adventure, Sci-Fi",459.01,2015,Action
+3,3,Inside Out,PG,"Animation, Adventure, Comedy",356.46,2015,Animation
+4,4,Furious 7,PG-13,"Action, Adventure, Thriller",353.01,2015,Action
+5,5,Minions,PG,"Animation, Adventure, Comedy",336.05,2015,Animation
+6,6,The Hunger Games: Mockingjay - Part 2,PG-13,"Action, Adventure, Sci-Fi",281.72,2015,Action
+7,7,The Martian,PG-13,"Adventure, Drama, Sci-Fi",228.43,2015,Adventure
+8,8,Cinderella,PG,"Drama, Family, Fantasy",201.15,2015,Drama
+9,9,Spectre,PG-13,"Action, Adventure, Thriller",200.07,2015,Action
+10,10,Mission: Impossible - Rogue Nation,PG-13,"Action, Adventure, Thriller",195.04,2015,Action
+11,11,Pitch Perfect 2,PG-13,"Comedy, Music",184.3,2015,Comedy
+12,12,The Revenant,R,"Action, Adventure, Biography",183.64,2015,Action
+13,13,Ant-Man,PG-13,"Action, Adventure, Comedy",180.2,2015,Action
+14,14,Home,PG,"Animation, Adventure, Comedy",177.4,2015,Animation
+15,15,Hotel Transylvania 2,PG,"Animation, Comedy, Family",169.7,2015,Animation
+16,16,Fifty Shades of Grey,R,"Drama, Romance, Thriller",166.17,2015,Drama
+17,17,The SpongeBob Movie: Sponge Out of Water,PG,"Animation, Adventure, Comedy",162.99,2015,Animation
+18,18,Straight Outta Compton,R,"Biography, Drama, History",161.2,2015,Biography
+19,19,San Andreas,PG-13,"Action, Adventure, Drama",155.19,2015,Action
+20,20,Mad Max: Fury Road,R,"Action, Adventure, Sci-Fi",154.06,2015,Action
+21,21,Daddy's Home,PG-13,"Comedy, Family",150.36,2015,Comedy
+22,22,Insurgent,PG-13,"Action, Adventure, Sci-Fi",130.18,2015,Action
+23,23,The Peanuts Movie,G,"Animation, Adventure, Comedy",130.18,2015,Animation
+24,24,The Good Dinosaur,PG,"Animation, Adventure, Comedy",123.09,2015,Animation
+25,25,Spy,R,"Action, Comedy, Crime",110.83,2015,Action
+26,26,Trainwreck,R,"Comedy, Drama, Romance",110.21,2015,Comedy
+27,27,Creed,PG-13,"Drama, Sport",109.77,2015,Drama
+28,28,Tomorrowland,PG,"Action, Adventure, Family",93.44,2015,Action
+29,29,Get Hard,R,"Comedy, Crime",90.41,2015,Comedy
+30,30,Terminator Genisys,PG-13,"Action, Adventure, Sci-Fi",89.76,2015,Action
+31,31,Sisters,R,Comedy,87.04,2015,Comedy
+32,32,Alvin and the Chipmunks: The Road Chip,PG,"Animation, Adventure, Comedy",85.89,2015,Animation
+33,33,Maze Runner: The Scorch Trials,PG-13,"Action, Sci-Fi, Thriller",81.7,2015,Action
+34,34,Ted 2,R,Comedy,81.48,2015,Comedy
+35,35,Goosebumps,PG,"Adventure, Comedy, Family",80.08,2015,Adventure
+36,36,Pixels,PG-13,"Action, Comedy, Sci-Fi",78.75,2015,Action
+37,37,The Intern,PG-13,"Comedy, Drama",75.76,2015,Comedy
+38,38,Bridge of Spies,PG-13,"Drama, History, Thriller",72.31,2015,Drama
+39,39,Paul Blart: Mall Cop 2,PG,"Action, Comedy, Crime",71.04,2015,Action
+40,40,The Big Short,R,"Biography, Comedy, Drama",70.26,2015,Biography
+41,41,War Room,PG,Drama,67.79,2015,Drama
+42,42,Magic Mike XXL,R,"Comedy, Drama, Music",66.01,2015,Comedy
+43,43,The Visit,PG-13,"Horror, Mystery, Thriller",65.21,2015,Horror
+44,44,The Wedding Ringer,R,Comedy,64.46,2015,Comedy
+45,45,Black Mass,R,"Biography, Crime, Drama",62.58,2015,Biography
+46,46,Vacation,R,"Adventure, Comedy",58.88,2015,Adventure
+47,47,The Perfect Guy,PG-13,"Crime, Drama, Horror",57.02,2015,Crime
+48,48,Joy,PG-13,Drama,56.45,2015,Drama
+49,49,Fantastic Four,PG-13,"Action, Adventure, Drama",56.12,2015,Action
+50,0,Rogue One: A Star Wars Story,PG-13,"Action, Adventure, Sci-Fi",532.18,2016,Action
+51,1,Finding Dory,PG,"Animation, Adventure, Comedy",486.3,2016,Animation
+52,2,Captain America: Civil War,PG-13,"Action, Adventure, Sci-Fi",408.08,2016,Action
+53,3,The Secret Life of Pets,PG,"Animation, Adventure, Comedy",368.38,2016,Animation
+54,4,The Jungle Book,PG,"Adventure, Drama, Family",364.0,2016,Adventure
+55,5,Deadpool,R,"Action, Adventure, Comedy",363.07,2016,Action
+56,6,Zootopia,PG,"Animation, Adventure, Comedy",341.27,2016,Animation
+57,7,Batman v Superman: Dawn of Justice,PG-13,"Action, Adventure, Sci-Fi",330.36,2016,Action
+58,8,Suicide Squad,PG-13,"Action, Adventure, Fantasy",325.1,2016,Action
+59,9,Sing,PG,"Animation, Comedy, Family",270.4,2016,Animation
+60,10,Moana,PG,"Animation, Adventure, Comedy",248.76,2016,Animation
+61,11,Fantastic Beasts and Where to Find Them,PG-13,"Adventure, Family, Fantasy",234.04,2016,Adventure
+62,12,Doctor Strange,PG-13,"Action, Adventure, Fantasy",232.64,2016,Action
+63,13,Hidden Figures,PG,"Biography, Drama, History",169.61,2016,Biography
+64,14,Jason Bourne,PG-13,"Action, Thriller",162.43,2016,Action
+65,15,Star Trek Beyond,PG-13,"Action, Adventure, Sci-Fi",158.85,2016,Action
+66,16,X-Men: Apocalypse,PG-13,"Action, Adventure, Sci-Fi",155.44,2016,Action
+67,17,Trolls,PG,"Animation, Adventure, Comedy",153.71,2016,Animation
+68,18,La La Land,PG-13,"Comedy, Drama, Music",151.1,2016,Comedy
+69,19,Kung Fu Panda 3,PG,"Animation, Action, Adventure",143.53,2016,Animation
+70,20,Split,PG-13,"Horror, Thriller",138.29,2016,Horror
+71,21,Ghostbusters,PG-13,"Action, Comedy, Fantasy",128.34,2016,Action
+72,22,Central Intelligence,PG-13,"Action, Comedy, Crime",127.44,2016,Action
+73,23,The Legend of Tarzan,PG-13,"Action, Adventure, Drama",126.64,2016,Action
+74,24,Sully,PG-13,"Biography, Drama",125.07,2016,Biography
+75,25,Bad Moms,R,Comedy,113.26,2016,Comedy
+76,26,Angry Birds,PG,"Animation, Action, Comedy",107.51,2016,Animation
+77,27,Independence Day: Resurgence,PG-13,"Action, Adventure, Sci-Fi",103.14,2016,Action
+78,28,The Conjuring 2,R,"Horror, Mystery, Thriller",102.47,2016,Horror
+79,29,Arrival,PG-13,"Drama, Mystery, Sci-Fi",100.55,2016,Drama
+80,30,Passengers,PG-13,"Drama, Romance, Sci-Fi",100.01,2016,Drama
+81,31,Sausage Party,R,"Animation, Adventure, Comedy",97.69,2016,Animation
+82,32,The Magnificent Seven,PG-13,"Action, Adventure, Western",93.43,2016,Action
+83,33,Ride Along 2,PG-13,"Action, Comedy, Crime",91.22,2016,Action
+84,34,Don't Breathe,R,"Crime, Horror, Thriller",89.22,2016,Crime
+85,35,Miss Peregrine's Home for Peculiar Children,PG-13,"Adventure, Drama, Fantasy",87.24,2016,Adventure
+86,36,The Accountant,R,"Action, Crime, Drama",86.26,2016,Action
+87,37,Teenage Mutant Ninja Turtles: Out of the Shadows,PG-13,"Action, Adventure, Comedy",82.05,2016,Action
+88,38,The Purge: Election Year,R,"Action, Horror, Sci-Fi",79.21,2016,Action
+89,39,Alice Through the Looking Glass,PG,"Adventure, Family, Fantasy",77.04,2016,Adventure
+90,40,Pete's Dragon,PG,"Action, Adventure, Comedy",76.23,2016,Action
+91,41,The Girl on the Train,R,"Crime, Drama, Mystery",75.4,2016,Crime
+92,42,Tyler Perry's Boo! A Madea Halloween,PG-13,"Comedy, Drama, Horror",73.16,2016,Comedy
+93,43,Storks,PG,"Animation, Adventure, Comedy",72.68,2016,Animation
+94,44,10 Cloverfield Lane,PG-13,"Drama, Horror, Mystery",72.08,2016,Drama
+95,45,Lights Out,PG-13,"Drama, Horror, Mystery",67.27,2016,Drama
+96,46,Hacksaw Ridge,R,"Biography, Drama, History",67.21,2016,Biography
+97,47,Allegiant,PG-13,"Action, Adventure, Mystery",66.18,2016,Action
+98,48,Now You See Me 2,PG-13,"Action, Adventure, Comedy",65.08,2016,Action
+99,49,Ice Age: Collision Course,PG,"Animation, Adventure, Comedy",64.06,2016,Animation
+100,0,Star Wars: Episode VIII - The Last Jedi,PG-13,"Action, Adventure, Fantasy",620.18,2017,Action
+101,1,Beauty and the Beast,PG,"Family, Fantasy, Musical",504.01,2017,Family
+102,2,Wonder Woman,PG-13,"Action, Adventure, Fantasy",412.56,2017,Action
+103,3,Jumanji: Welcome to the Jungle,PG-13,"Action, Adventure, Comedy",404.52,2017,Action
+104,4,Guardians of the Galaxy Vol. 2,PG-13,"Action, Adventure, Comedy",389.81,2017,Action
+105,5,Spider-Man: Homecoming,PG-13,"Action, Adventure, Sci-Fi",334.2,2017,Action
+106,6,It,R,Horror,327.48,2017,Horror
+107,7,Thor: Ragnarok,PG-13,"Action, Adventure, Comedy",315.06,2017,Action
+108,8,Despicable Me 3,PG,"Animation, Adventure, Comedy",264.62,2017,Animation
+109,9,Justice League,PG-13,"Action, Adventure, Fantasy",229.02,2017,Action
+110,10,Logan,R,"Action, Drama, Sci-Fi",226.28,2017,Action
+111,11,The Fate of the Furious,PG-13,"Action, Adventure, Thriller",226.01,2017,Action
+112,12,Coco,PG,"Animation, Adventure, Family",209.73,2017,Animation
+113,13,Dunkirk,PG-13,"Action, Drama, History",188.37,2017,Action
+114,14,Get Out,R,"Horror, Mystery, Thriller",176.04,2017,Horror
+115,15,The Lego Batman Movie,PG,"Animation, Action, Comedy",175.75,2017,Animation
+116,16,The Boss Baby,PG,"Animation, Adventure, Comedy",175.0,2017,Animation
+117,17,The Greatest Showman,PG,"Biography, Drama, Musical",174.34,2017,Biography
+118,18,Pirates of the Caribbean: Dead Men Tell No Tales,PG-13,"Action, Adventure, Fantasy",172.56,2017,Action
+119,19,Kong: Skull Island,PG-13,"Action, Adventure, Fantasy",168.05,2017,Action
+120,20,Cars 3,G,"Animation, Adventure, Comedy",152.9,2017,Animation
+121,21,War for the Planet of the Apes,PG-13,"Action, Adventure, Drama",146.88,2017,Action
+122,22,Wonder,PG,"Drama, Family",132.42,2017,Drama
+123,23,Transformers: The Last Knight,PG-13,"Action, Adventure, Sci-Fi",130.17,2017,Action
+124,24,Girls Trip,R,"Adventure, Comedy, Drama",115.17,2017,Adventure
+125,25,Fifty Shades Darker,R,"Drama, Romance",114.38,2017,Drama
+126,26,The Upside,PG-13,"Comedy, Drama",108.25,2017,Comedy
+127,27,Baby Driver,R,"Action, Crime, Drama",107.83,2017,Action
+128,28,Pitch Perfect 3,PG-13,"Comedy, Music",104.9,2017,Comedy
+129,29,Daddy's Home 2,PG-13,Comedy,104.03,2017,Comedy
+130,30,Murder on the Orient Express,PG-13,"Crime, Drama, Mystery",102.83,2017,Crime
+131,31,Annabelle: Creation,R,"Horror, Mystery, Thriller",102.09,2017,Horror
+132,32,Kingsman: The Golden Circle,R,"Action, Adventure, Comedy",100.23,2017,Action
+133,33,Blade Runner 2049,R,"Action, Drama, Mystery",92.05,2017,Action
+134,34,John Wick: Chapter 2,R,"Action, Crime, Thriller",92.03,2017,Action
+135,35,The Emoji Movie,PG,"Animation, Adventure, Comedy",86.09,2017,Animation
+136,36,Power Rangers,PG-13,"Action, Adventure, Sci-Fi",85.36,2017,Action
+137,37,Ferdinand,PG,"Animation, Adventure, Comedy",84.41,2017,Animation
+138,38,The Post,PG-13,"Biography, Drama, History",81.9,2017,Biography
+139,39,The Mummy,PG-13,"Action, Adventure, Fantasy",80.1,2017,Action
+140,40,The Hitman's Bodyguard,R,"Action, Comedy, Thriller",75.47,2017,Action
+141,41,Alien: Covenant,R,"Horror, Sci-Fi, Thriller",74.26,2017,Horror
+142,42,Captain Underpants: The First Epic Movie,PG,"Animation, Action, Comedy",73.92,2017,Animation
+143,43,A Bad Moms Christmas,R,Comedy,72.11,2017,Comedy
+144,44,A Dog's Purpose,PG,"Adventure, Comedy, Drama",64.51,2017,Adventure
+145,45,The Shape of Water,R,"Adventure, Drama, Fantasy",63.86,2017,Adventure
+146,46,The Lego Ninjago Movie,PG,"Animation, Action, Adventure",59.28,2017,Animation
+147,47,Baywatch,R,"Action, Comedy, Crime",58.06,2017,Action
+148,48,The Shack,PG-13,"Drama, Fantasy",57.33,2017,Drama
+149,49,Darkest Hour,PG-13,"Biography, Drama, History",56.47,2017,Biography
+150,0,Black Panther,PG-13,"Action, Adventure, Sci-Fi",700.06,2018,Action
+151,1,Avengers: Infinity War,PG-13,"Action, Adventure, Sci-Fi",678.82,2018,Action
+152,2,Incredibles 2,PG,"Animation, Action, Adventure",608.58,2018,Animation
+153,3,Jurassic World: Fallen Kingdom,PG-13,"Action, Adventure, Sci-Fi",417.72,2018,Action
+154,4,Aquaman,PG-13,"Action, Adventure, Fantasy",335.06,2018,Action
+155,5,Deadpool 2,R,"Action, Adventure, Comedy",324.59,2018,Action
+156,6,Dr. Seuss' The Grinch,PG,"Animation, Family, Fantasy",270.62,2018,Animation
+157,7,Mission: Impossible - Fallout,PG-13,"Action, Adventure, Thriller",220.16,2018,Action
+158,8,Ant-Man and the Wasp,PG-13,"Action, Adventure, Comedy",216.65,2018,Action
+159,9,Bohemian Rhapsody,PG-13,"Biography, Drama, Music",216.43,2018,Biography
+160,10,A Star Is Born,R,"Drama, Music, Romance",215.29,2018,Drama
+161,11,Solo: A Star Wars Story,PG-13,"Action, Adventure, Sci-Fi",213.77,2018,Action
+162,12,Venom,PG-13,"Action, Sci-Fi, Thriller",213.52,2018,Action
+163,13,Ralph Breaks the Internet,PG,"Animation, Adventure, Comedy",201.09,2018,Animation
+164,14,Spider-Man: Into the Spider-Verse,PG,"Animation, Action, Adventure",190.24,2018,Animation
+165,15,A Quiet Place,PG-13,"Drama, Horror, Sci-Fi",188.02,2018,Drama
+166,16,Crazy Rich Asians,PG-13,"Comedy, Drama, Romance",174.53,2018,Comedy
+167,17,Mary Poppins Returns,PG,"Comedy, Family, Fantasy",171.96,2018,Comedy
+168,18,Hotel Transylvania 3: Summer Vacation,PG,"Animation, Adventure, Comedy",167.51,2018,Animation
+169,19,Fantastic Beasts: The Crimes of Grindelwald,PG-13,"Adventure, Family, Fantasy",159.56,2018,Adventure
+170,20,Halloween,R,"Horror, Thriller",159.34,2018,Horror
+171,21,The Meg,PG-13,"Action, Horror, Sci-Fi",143.01,2018,Action
+172,22,Ocean's 8,PG-13,"Action, Comedy, Crime",140.22,2018,Action
+173,23,Ready Player One,PG-13,"Action, Adventure, Sci-Fi",137.69,2018,Action
+174,24,Bumblebee,PG-13,"Action, Adventure, Sci-Fi",127.2,2018,Action
+175,25,Mamma Mia! Here We Go Again,PG-13,"Comedy, Musical, Romance",120.63,2018,Comedy
+176,26,The Nun,R,"Horror, Mystery, Thriller",117.45,2018,Horror
+177,27,Creed II,PG-13,"Drama, Sport",115.72,2018,Drama
+178,28,Peter Rabbit,PG,"Animation, Adventure, Comedy",115.25,2018,Animation
+179,29,The Mule,R,"Crime, Drama, Thriller",103.8,2018,Crime
+180,30,The Equalizer 2,R,"Action, Crime, Thriller",102.08,2018,Action
+181,31,Rampage,PG-13,"Action, Adventure, Sci-Fi",101.03,2018,Action
+182,32,A Wrinkle in Time,PG,"Adventure, Family, Fantasy",100.48,2018,Adventure
+183,33,Fifty Shades Freed,R,"Drama, Romance, Thriller",100.41,2018,Drama
+184,34,Christopher Robin,PG,"Adventure, Comedy, Drama",99.22,2018,Adventure
+185,35,Green Book,PG-13,"Biography, Comedy, Drama",85.08,2018,Biography
+186,36,I Can Only Imagine,PG,"Biography, Drama, Family",83.48,2018,Biography
+187,37,Smallfoot,PG,"Animation, Adventure, Comedy",83.24,2018,Animation
+188,38,Night School,PG-13,Comedy,77.34,2018,Comedy
+189,39,The First Purge,R,"Action, Horror, Sci-Fi",69.49,2018,Action
+190,40,Game Night,R,"Action, Comedy, Crime",69.18,2018,Action
+191,41,Book Club,PG-13,"Comedy, Drama, Romance",68.57,2018,Comedy
+192,42,The House with a Clock in Its Walls,PG,"Comedy, Fantasy, Horror",68.55,2018,Comedy
+193,43,Skyscraper,PG-13,"Action, Adventure, Thriller",68.42,2018,Action
+194,44,Insidious: The Last Key,PG-13,"Horror, Mystery, Thriller",67.75,2018,Horror
+195,45,Instant Family,PG-13,"Comedy, Drama",67.36,2018,Comedy
+196,46,Pacific Rim: Uprising,PG-13,"Action, Adventure, Sci-Fi",59.87,2018,Action
+197,47,Blockers,R,Comedy,59.84,2018,Comedy
+198,48,Tomb Raider,PG-13,"Action, Adventure, Fantasy",58.25,2018,Action
+199,49,Maze Runner: The Death Cure,PG-13,"Action, Sci-Fi, Thriller",58.03,2018,Action
+200,0,Avengers: Endgame,PG-13,"Action, Adventure, Drama",858.37,2019,Action
+201,1,The Lion King,PG,"Animation, Adventure, Drama",540.08,2019,Animation
+202,2,Toy Story 4,G,"Animation, Adventure, Comedy",433.03,2019,Animation
+203,3,Captain Marvel,PG-13,"Action, Adventure, Sci-Fi",426.83,2019,Action
+204,4,Spider-Man: Far from Home,PG-13,"Action, Adventure, Sci-Fi",388.53,2019,Action
+205,5,Aladdin,PG,"Adventure, Family, Fantasy",354.87,2019,Adventure
+206,6,It Chapter Two,R,"Drama, Fantasy, Horror",193.77,2019,Drama
+207,7,Joker,R,"Crime, Drama, Thriller",192.73,2019,Crime
+208,8,Us,R,"Horror, Mystery, Thriller",175.01,2019,Horror
+209,9,John Wick: Chapter 3 - Parabellum,R,"Action, Crime, Thriller",171.02,2019,Action
+210,10,Fast & Furious Presents: Hobbs & Shaw,PG-13,"Action, Adventure",165.55,2019,Action
+211,11,How to Train Your Dragon: The Hidden World,PG,"Animation, Action, Adventure",160.8,2019,Animation
+212,12,The Secret Life of Pets 2,PG,"Animation, Adventure, Comedy",158.14,2019,Animation
+213,13,Pokémon Detective Pikachu,PG,"Action, Adventure, Comedy",144.11,2019,Action
+214,14,Shazam!,PG-13,"Action, Adventure, Comedy",140.37,2019,Action
+215,15,Once Upon a Time ... in Hollywood,R,"Comedy, Drama",135.37,2019,Comedy
+216,16,Dumbo,PG,"Adventure, Family, Fantasy",114.77,2019,Adventure
+217,17,Glass,PG-13,"Drama, Sci-Fi, Thriller",111.04,2019,Drama
+218,18,Godzilla: King of the Monsters,PG-13,"Action, Adventure, Fantasy",110.5,2019,Action
+219,19,The Lego Movie 2: The Second Part,PG,"Animation, Action, Adventure",105.81,2019,Animation
+220,20,Rocketman,R,"Biography, Drama, Music",96.37,2019,Biography
+221,21,Alita: Battle Angel,PG-13,"Action, Adventure, Sci-Fi",85.71,2019,Action
+222,22,Hustlers,R,"Comedy, Crime, Drama",80.55,2019,Comedy
+223,23,Men in Black: International,PG-13,"Action, Adventure, Comedy",79.8,2019,Action
+224,24,Annabelle Comes Home,R,"Horror, Mystery, Thriller",73.65,2019,Horror
+225,25,Yesterday,PG-13,"Comedy, Fantasy, Music",73.29,2019,Comedy
+226,26,Tyler Perry's A Madea Family Funeral,PG-13,Comedy,73.26,2019,Comedy
+227,27,Good Boys,R,"Adventure, Comedy",69.06,2019,Adventure
+228,28,Angel Has Fallen,R,"Action, Thriller",67.16,2019,Action
+229,29,Dark Phoenix,PG-13,"Action, Adventure, Sci-Fi",65.85,2019,Action
+230,30,Scary Stories to Tell in the Dark,PG-13,"Horror, Mystery, Thriller",62.74,2019,Horror
+231,31,Escape Room,PG-13,"Action, Adventure, Horror",57.01,2019,Action
+232,32,Dora and the Lost City of Gold,PG,"Adventure, Family",54.89,2019,Adventure
+233,33,The Curse of La Llorona,R,"Horror, Mystery, Thriller",54.73,2019,Horror
+234,34,Pet Sematary,R,"Horror, Mystery, Thriller",54.72,2019,Horror
+235,35,What Men Want,R,"Comedy, Fantasy, Romance",54.61,2019,Comedy
+236,36,Isn't It Romantic,PG-13,"Comedy, Fantasy, Romance",48.79,2019,Comedy
+237,37,Five Feet Apart,PG-13,"Drama, Romance",45.73,2019,Drama
+238,38,Ma,R,"Horror, Thriller",45.37,2019,Horror
+239,39,Wonder Park,PG,"Animation, Adventure, Comedy",45.22,2019,Animation
+240,40,A Dog's Way Home,PG,"Adventure, Drama, Family",41.95,2019,Adventure
+241,41,Breakthrough,PG,"Biography, Drama",40.71,2019,Biography
+242,42,Little,PG-13,"Comedy, Fantasy, Romance",40.67,2019,Comedy
+243,43,Crawl,R,"Action, Drama, Horror",39.01,2019,Action
+244,44,The Angry Birds Movie 2,PG,"Animation, Adventure, Comedy",38.44,2019,Animation
+245,45,Maleficent: Mistress of Evil,PG,"Adventure, Family, Fantasy",36.95,2019,Adventure
+246,46,The Intruder,PG-13,"Drama, Horror, Mystery",35.42,2019,Drama
+247,47,The Hustle,PG-13,"Comedy, Crime",35.42,2019,Comedy
+248,48,Ad Astra,PG-13,"Adventure, Drama, Mystery",35.4,2019,Adventure
+249,49,Cold Pursuit,R,"Action, Crime, Drama",32.14,2019,Action
