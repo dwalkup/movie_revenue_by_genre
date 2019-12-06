@@ -1,5 +1,3 @@
-Your presentation (or a link to your slides in the README is fine)
-
 GROUP MEMBERS:
   David Walkup, Carson Lloyd
 
